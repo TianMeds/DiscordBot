@@ -17,4 +17,4 @@ async def on_ready():
     bot.load_extension('dismusic')
     bot.load_extension("dch")
     
-bot.run("OTU2NDYyOTQ4NDk3MzYyOTY0.YjwliQ.P_eMvkQTXUgxa-lll04XLblXQ8k")
+bot.run("TOKEN")
